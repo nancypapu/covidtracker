@@ -108,7 +108,8 @@ know = {
 "Nope" : "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp you do great:)stay home and stay safe &#128525;<br>",
 "thank you" : "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp dont worry you will get well soon!!&#128519;<br>",
 "Thank you" : "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp dont worry you will get well soon!!&#128519;<br>",
-
+"Bye" : "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Bye!!Take care&#128519;<br>",
+"bye" : "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Bye!!Take care&#128519;<br>",
 
 };
 
