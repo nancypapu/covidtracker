@@ -104,15 +104,15 @@ if(isset($_POST['update']))
 	if(empty($name) || empty($qty) || empty($price)) {
 				
 		if(empty($name)) {
-			echo "<font color='red'>Name field is empty.</font><br/>";
+			echo "<font color='red'>Area field is empty.</font><br/>";
 		}
 		
 		if(empty($qty)) {
-			echo "<font color='red'>Quantity field is empty.</font><br/>";
+			echo "<font color='red'>Old Cases field is empty.</font><br/>";
 		}
 		
 		if(empty($price)) {
-			echo "<font color='red'>Price field is empty.</font><br/>";
+			echo "<font color='red'>New Cases field is empty.</font><br/>";
 		}		
 	} else {	
 		//updating the table
